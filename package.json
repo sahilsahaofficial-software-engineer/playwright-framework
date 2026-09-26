@@ -17,5 +17,16 @@
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.4.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilsahaofficial-software-engineer/playwright-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sahilsahaofficial-software-engineer/playwright-framework/issues"
+  },
+  "homepage": "https://github.com/sahilsahaofficial-software-engineer/playwright-framework#readme"
 }
